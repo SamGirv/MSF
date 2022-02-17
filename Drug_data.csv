@@ -1,0 +1,789 @@
+﻿Country,Drug_Type,Critical,Urgent,None,ISO3
+Afghanistan,Antibiotic,0.67,0.00,0.40,4
+Afghanistan,Other,0.32,0.26,0.29,4
+Afghanistan,Sexual Health,0.00,0.00,0.44,4
+Afghanistan,Vaccine,0.00,0.40,0.60,4
+Albania,Antibiotic,0.00,0.00,0.29,8
+Albania,Other,0.19,0.25,0.27,8
+Albania,Sexual Health,1.00,0.00,0.00,8
+Albania,Vaccine,0.00,0.00,0.22,8
+Algeria,Antibiotic,0.00,0.00,0.40,12
+Algeria,Other,0.22,0.31,0.31,12
+Algeria,Sexual Health,0.00,0.00,0.25,12
+Algeria,Vaccine,1.00,0.40,0.80,12
+Angola,Antibiotic,0.00,0.00,0.40,24
+Angola,Other,0.22,0.34,0.30,24
+Angola,Sexual Health,0.00,0.00,0.00,24
+Angola,Vaccine,1.00,0.40,0.20,24
+Argentina,Antibiotic,0.00,0.00,0.60,32
+Argentina,Other,0.34,0.43,0.31,32
+Argentina,Sexual Health,0.00,0.00,0.22,32
+Argentina,Vaccine,0.00,0.00,0.40,32
+Armenia,Antibiotic,1.33,0.00,0.20,51
+Armenia,Other,0.41,0.30,0.28,51
+Armenia,Sexual Health,0.00,0.00,0.00,51
+Armenia,Vaccine,0.00,0.80,0.60,51
+Aruba,Antibiotic,0.00,0.00,0.22,533
+Aruba,Other,0.28,0.36,0.29,533
+Aruba,Sexual Health,1.00,1.00,0.00,533
+Aruba,Vaccine,0.00,0.80,0.25,533
+Australia,Antibiotic,0.00,1.00,0.40,36
+Australia,Other,0.28,0.26,0.28,36
+Australia,Sexual Health,0.00,0.00,0.89,36
+Australia,Vaccine,0.00,0.00,0.20,36
+Austria,Antibiotic,0.00,0.00,0.40,40
+Austria,Other,0.31,0.28,0.30,40
+Austria,Sexual Health,0.00,0.00,0.00,40
+Austria,Vaccine,0.00,1.20,0.00,40
+Azerbaijan,Antibiotic,0.00,0.00,0.80,31
+Azerbaijan,Other,0.41,0.23,0.33,31
+Azerbaijan,Sexual Health,0.00,0.00,0.22,31
+Azerbaijan,Vaccine,0.00,0.00,0.20,31
+Bahamas,Antibiotic,0.00,1.00,0.60,44
+Bahamas,Other,0.31,0.28,0.27,44
+Bahamas,Sexual Health,0.00,1.00,0.67,44
+Bahamas,Vaccine,0.00,0.40,0.00,44
+Bahrain,Antibiotic,0.00,0.00,0.80,48
+Bahrain,Other,0.48,0.33,0.30,48
+Bahrain,Sexual Health,0.00,0.00,0.22,48
+Bahrain,Vaccine,0.00,0.00,0.80,48
+Bangladesh,Antibiotic,0.67,0.00,1.00,50
+Bangladesh,Other,0.32,0.28,0.34,50
+Bangladesh,Sexual Health,0.00,0.00,0.44,50
+Bangladesh,Vaccine,0.00,0.80,0.40,50
+Barbados,Antibiotic,0.67,0.00,0.40,52
+Barbados,Other,0.32,0.29,0.35,52
+Barbados,Sexual Health,0.00,0.00,0.44,52
+Barbados,Vaccine,0.00,0.80,0.00,52
+Belarus,Antibiotic,0.00,0.00,0.20,112
+Belarus,Other,0.41,0.33,0.31,112
+Belarus,Sexual Health,0.00,0.00,0.22,112
+Belarus,Vaccine,0.00,0.80,0.20,112
+Belgium,Antibiotic,0.67,0.00,0.40,56
+Belgium,Other,0.22,0.13,0.30,56
+Belgium,Sexual Health,0.00,0.00,0.67,56
+Belgium,Vaccine,0.00,0.40,0.20,56
+Belize,Antibiotic,0.67,0.00,0.00,84
+Belize,Other,0.41,0.30,0.32,84
+Belize,Sexual Health,0.00,0.00,0.22,84
+Belize,Vaccine,0.00,0.00,0.00,84
+Benin,Antibiotic,1.33,0.00,0.60,204
+Benin,Other,0.41,0.23,0.33,204
+Benin,Sexual Health,1.00,0.00,0.22,204
+Benin,Vaccine,0.00,1.00,0.40,204
+Bhutan,Antibiotic,0.00,0.00,0.00,64
+Bhutan,Other,0.38,0.28,0.32,64
+Bhutan,Sexual Health,0.00,2.00,0.00,64
+Bhutan,Vaccine,0.00,0.00,0.40,64
+Bolivia,Antibiotic,0.67,0.00,0.00,68
+Bolivia,Other,0.25,0.28,0.31,68
+Bolivia,Sexual Health,2.00,0.00,0.50,68
+Bolivia,Vaccine,0.00,0.00,0.80,68
+Bosnia and Herzegovina,Antibiotic,0.67,0.00,0.20,70
+Bosnia and Herzegovina,Other,0.47,0.25,0.30,70
+Bosnia and Herzegovina,Sexual Health,0.00,0.00,0.44,70
+Bosnia and Herzegovina,Vaccine,0.00,0.00,0.22,70
+Botswana,Antibiotic,0.00,0.00,0.20,72
+Botswana,Other,0.35,0.13,0.39,72
+Botswana,Sexual Health,0.00,1.00,0.44,72
+Botswana,Vaccine,1.00,0.00,0.40,72
+Brazil,Antibiotic,1.33,0.00,0.60,76
+Brazil,Other,0.28,0.41,0.32,76
+Brazil,Sexual Health,0.00,0.00,0.44,76
+Brazil,Vaccine,0.00,0.40,0.20,76
+Brunei Darussalam,Antibiotic,0.67,0.00,0.60,96
+Brunei Darussalam,Other,0.44,0.55,0.33,96
+Brunei Darussalam,Sexual Health,0.00,0.00,0.00,96
+Brunei Darussalam,Vaccine,0.00,0.80,0.20,96
+Bulgaria,Antibiotic,0.00,0.00,0.20,100
+Bulgaria,Other,0.28,0.31,0.29,100
+Bulgaria,Sexual Health,0.00,0.00,0.00,100
+Bulgaria,Vaccine,0.00,0.00,0.20,100
+Burkina Faso,Antibiotic,0.00,0.00,0.40,854
+Burkina Faso,Other,0.35,0.23,0.37,854
+Burkina Faso,Sexual Health,0.00,0.00,0.00,854
+Burkina Faso,Vaccine,0.00,0.00,1.00,854
+Burundi,Antibiotic,0.67,0.00,0.00,108
+Burundi,Other,0.38,0.41,0.38,108
+Burundi,Sexual Health,1.00,0.00,0.22,108
+Burundi,Vaccine,1.00,0.00,0.20,108
+Cambodia,Antibiotic,0.67,0.00,0.20,116
+Cambodia,Other,0.35,0.33,0.36,116
+Cambodia,Sexual Health,0.00,0.00,0.44,116
+Cambodia,Vaccine,1.00,0.40,0.40,116
+Cameroon,Antibiotic,0.00,0.00,0.40,120
+Cameroon,Other,0.44,0.33,0.36,120
+Cameroon,Sexual Health,0.00,0.00,0.22,120
+Cameroon,Vaccine,0.00,0.00,0.60,120
+Canada,Antibiotic,0.00,0.00,0.20,124
+Canada,Other,0.25,0.26,0.33,124
+Canada,Sexual Health,0.00,0.00,0.44,124
+Canada,Vaccine,0.00,0.40,0.60,124
+Cape Verde,Antibiotic,0.00,0.00,0.40,132
+Cape Verde,Other,0.48,0.41,0.30,132
+Cape Verde,Sexual Health,1.00,0.00,0.44,132
+Cape Verde,Vaccine,0.00,0.80,0.40,132
+Central African Republic,Antibiotic,0.67,0.00,0.20,140
+Central African Republic,Other,0.28,0.35,0.34,140
+Central African Republic,Sexual Health,0.00,0.00,0.44,140
+Central African Republic,Vaccine,1.00,0.80,0.60,140
+Chad,Antibiotic,0.67,0.00,0.40,148
+Chad,Other,0.29,0.35,0.35,148
+Chad,Sexual Health,0.00,0.00,0.44,148
+Chad,Vaccine,0.00,0.40,0.20,148
+Channel Islands,Antibiotic,0.67,0.00,0.20,#N/A
+Channel Islands,Other,0.19,0.28,0.28,#N/A
+Channel Islands,Sexual Health,1.00,0.00,0.89,#N/A
+Channel Islands,Vaccine,0.00,0.00,0.40,#N/A
+Chile,Antibiotic,0.67,0.00,0.40,152
+Chile,Other,0.29,0.36,0.31,152
+Chile,Sexual Health,1.00,0.00,0.67,152
+Chile,Vaccine,0.00,0.00,0.40,152
+China,Antibiotic,0.00,0.00,0.20,156
+China,Other,0.25,0.46,0.32,156
+China,Sexual Health,1.00,1.00,0.22,156
+China,Vaccine,0.00,0.00,0.40,156
+Colombia,Antibiotic,0.00,1.00,0.20,170
+Colombia,Other,0.29,0.24,0.36,170
+Colombia,Sexual Health,0.00,0.00,0.67,170
+Colombia,Vaccine,1.00,0.00,0.40,170
+Comoros,Antibiotic,0.67,1.00,0.00,174
+Comoros,Other,0.29,0.25,0.32,174
+Comoros,Sexual Health,1.00,0.00,0.44,174
+Comoros,Vaccine,0.00,0.00,0.20,174
+Congo (Brazzaville),Antibiotic,0.00,0.00,0.00,#N/A
+Congo (Brazzaville),Other,0.32,0.35,0.29,#N/A
+Congo (Brazzaville),Sexual Health,0.00,0.00,0.22,#N/A
+Congo (Brazzaville),Vaccine,0.00,1.60,0.20,#N/A
+"Congo, (Kinshasa)",Antibiotic,0.00,0.00,0.40,180
+"Congo, (Kinshasa)",Other,0.28,0.33,0.29,180
+"Congo, (Kinshasa)",Sexual Health,0.00,1.00,0.00,180
+"Congo, (Kinshasa)",Vaccine,0.00,0.50,0.20,180
+Costa Rica,Antibiotic,0.00,0.00,0.60,188
+Costa Rica,Other,0.39,0.15,0.31,188
+Costa Rica,Sexual Health,0.00,0.00,0.75,188
+Costa Rica,Vaccine,2.00,0.40,0.20,188
+Croatia,Antibiotic,0.00,1.00,0.60,191
+Croatia,Other,0.28,0.13,0.34,191
+Croatia,Sexual Health,1.00,0.00,0.44,191
+Croatia,Vaccine,0.00,0.00,0.00,191
+Cuba,Antibiotic,0.67,0.00,0.40,192
+Cuba,Other,0.25,0.15,0.30,192
+Cuba,Sexual Health,0.00,1.00,0.44,192
+Cuba,Vaccine,1.00,0.00,0.40,192
+Cyprus,Antibiotic,0.67,0.00,0.20,196
+Cyprus,Other,0.41,0.33,0.32,196
+Cyprus,Sexual Health,0.00,0.00,0.67,196
+Cyprus,Vaccine,1.00,0.40,0.60,196
+Czech Republic,Antibiotic,1.00,0.00,0.60,203
+Czech Republic,Other,0.38,0.18,0.32,203
+Czech Republic,Sexual Health,0.00,0.00,0.44,203
+Czech Republic,Vaccine,0.00,0.40,0.40,203
+Denmark,Antibiotic,0.67,1.00,0.60,208
+Denmark,Other,0.50,0.20,0.34,208
+Denmark,Sexual Health,1.00,0.00,0.22,208
+Denmark,Vaccine,2.00,0.00,0.20,208
+Djibouti,Antibiotic,0.00,0.00,0.40,262
+Djibouti,Other,0.22,0.34,0.35,262
+Djibouti,Sexual Health,1.00,0.00,0.75,262
+Djibouti,Vaccine,0.00,0.00,0.20,262
+Dominican Republic,Antibiotic,0.00,0.00,0.40,214
+Dominican Republic,Other,0.33,0.18,0.35,214
+Dominican Republic,Sexual Health,0.00,0.00,0.22,214
+Dominican Republic,Vaccine,1.00,0.00,0.40,214
+Ecuador,Antibiotic,0.00,1.00,0.00,218
+Ecuador,Other,0.09,0.33,0.30,218
+Ecuador,Sexual Health,1.00,0.00,0.22,218
+Ecuador,Vaccine,1.00,0.40,0.60,218
+Egypt,Antibiotic,0.00,0.00,0.40,818
+Egypt,Other,0.54,0.31,0.38,818
+Egypt,Sexual Health,1.00,0.00,0.22,818
+Egypt,Vaccine,0.00,0.00,0.20,818
+El Salvador,Antibiotic,0.67,0.00,0.44,222
+El Salvador,Other,0.19,0.31,0.30,222
+El Salvador,Sexual Health,0.00,1.00,0.67,222
+El Salvador,Vaccine,0.00,0.40,0.20,222
+Equatorial Guinea,Antibiotic,0.00,1.00,0.00,226
+Equatorial Guinea,Other,0.48,0.33,0.34,226
+Equatorial Guinea,Sexual Health,0.00,0.00,0.22,226
+Equatorial Guinea,Vaccine,0.00,0.00,0.20,226
+Eritrea,Antibiotic,0.00,0.00,0.00,232
+Eritrea,Other,0.27,0.34,0.34,232
+Eritrea,Sexual Health,0.00,0.00,0.89,232
+Eritrea,Vaccine,0.00,0.00,0.20,232
+Estonia,Antibiotic,0.00,1.00,0.20,233
+Estonia,Other,0.38,0.46,0.30,233
+Estonia,Sexual Health,0.00,0.00,0.22,233
+Estonia,Vaccine,0.00,0.00,0.60,233
+Ethiopia,Antibiotic,0.00,0.00,0.20,231
+Ethiopia,Other,0.19,0.23,0.37,231
+Ethiopia,Sexual Health,0.00,0.00,0.22,231
+Ethiopia,Vaccine,1.00,0.00,0.40,231
+Fiji,Antibiotic,0.00,1.00,0.00,242
+Fiji,Other,0.32,0.20,0.33,242
+Fiji,Sexual Health,0.00,0.00,0.00,242
+Fiji,Vaccine,0.00,0.80,0.60,242
+Finland,Antibiotic,0.67,1.00,0.60,246
+Finland,Other,0.25,0.33,0.32,246
+Finland,Sexual Health,0.00,1.00,0.67,246
+Finland,Vaccine,1.00,0.40,0.60,246
+France,Antibiotic,0.67,0.00,0.20,250
+France,Other,0.22,0.33,0.30,250
+France,Sexual Health,0.00,0.00,0.75,250
+France,Vaccine,1.00,0.40,0.80,250
+French Guiana,Antibiotic,0.00,0.00,0.20,254
+French Guiana,Other,0.13,0.21,0.33,254
+French Guiana,Sexual Health,0.00,1.00,0.22,254
+French Guiana,Vaccine,0.00,0.80,0.60,254
+French Polynesia,Antibiotic,0.00,1.00,0.40,258
+French Polynesia,Other,0.35,0.33,0.30,258
+French Polynesia,Sexual Health,0.00,0.00,0.44,258
+French Polynesia,Vaccine,1.00,0.00,0.40,258
+Gabon,Antibiotic,0.67,1.00,1.11,266
+Gabon,Other,0.35,0.30,0.33,266
+Gabon,Sexual Health,0.00,0.00,0.67,266
+Gabon,Vaccine,0.00,0.00,0.60,266
+Gambia,Antibiotic,0.67,0.00,0.80,270
+Gambia,Other,0.22,0.21,0.36,270
+Gambia,Sexual Health,1.00,0.00,0.22,270
+Gambia,Vaccine,0.00,0.40,0.20,270
+Georgia,Antibiotic,0.67,1.00,0.20,268
+Georgia,Other,0.19,0.31,0.34,268
+Georgia,Sexual Health,0.00,2.00,0.22,268
+Georgia,Vaccine,0.00,0.00,0.20,268
+Germany,Antibiotic,0.67,0.00,0.20,276
+Germany,Other,0.38,0.28,0.31,276
+Germany,Sexual Health,0.00,0.00,0.44,276
+Germany,Vaccine,0.00,0.40,0.20,276
+Ghana,Antibiotic,0.67,0.00,0.40,288
+Ghana,Other,0.31,0.31,0.33,288
+Ghana,Sexual Health,0.00,0.00,0.67,288
+Ghana,Vaccine,0.00,0.40,0.00,288
+Greece,Antibiotic,0.00,1.00,1.20,300
+Greece,Other,0.29,0.28,0.30,300
+Greece,Sexual Health,0.00,0.00,0.50,300
+Greece,Vaccine,1.00,0.00,0.20,300
+Grenada,Antibiotic,0.00,2.00,0.00,308
+Grenada,Other,0.34,0.21,0.30,308
+Grenada,Sexual Health,1.00,0.00,0.67,308
+Grenada,Vaccine,2.00,0.40,0.67,308
+Guadeloupe,Antibiotic,0.00,1.00,0.20,312
+Guadeloupe,Other,0.41,0.38,0.34,312
+Guadeloupe,Sexual Health,0.00,1.00,0.22,312
+Guadeloupe,Vaccine,1.00,0.00,0.20,312
+Guam,Antibiotic,0.67,0.00,0.40,316
+Guam,Other,0.44,0.36,0.33,316
+Guam,Sexual Health,0.00,0.00,0.44,316
+Guam,Vaccine,0.00,0.00,0.20,316
+Guatemala,Antibiotic,0.67,1.00,0.80,320
+Guatemala,Other,0.22,0.21,0.33,320
+Guatemala,Sexual Health,1.00,0.00,0.22,320
+Guatemala,Vaccine,1.00,0.00,0.40,320
+Guinea,Antibiotic,0.67,1.00,0.60,324
+Guinea,Other,0.31,0.33,0.30,324
+Guinea,Sexual Health,1.00,1.00,0.44,324
+Guinea,Vaccine,1.00,0.40,0.20,324
+Guinea-Bissau,Antibiotic,0.00,0.00,0.60,624
+Guinea-Bissau,Other,0.28,0.26,0.28,624
+Guinea-Bissau,Sexual Health,0.00,0.00,0.22,624
+Guinea-Bissau,Vaccine,0.00,0.40,0.20,624
+Guyana,Antibiotic,0.00,0.00,0.00,328
+Guyana,Other,0.23,0.41,0.33,328
+Guyana,Sexual Health,0.00,0.00,0.00,328
+Guyana,Vaccine,1.00,0.00,0.22,328
+Haiti,Antibiotic,0.67,1.00,0.44,332
+Haiti,Other,0.28,0.33,0.31,332
+Haiti,Sexual Health,1.00,0.00,0.67,332
+Haiti,Vaccine,1.00,0.40,0.40,332
+Honduras,Antibiotic,0.00,0.00,0.20,340
+Honduras,Other,0.62,0.30,0.28,340
+Honduras,Sexual Health,0.00,0.00,0.00,340
+Honduras,Vaccine,0.00,0.40,0.40,340
+"Hong Kong, SAR China",Antibiotic,0.67,0.00,0.60,344
+"Hong Kong, SAR China",Other,0.10,0.41,0.26,344
+"Hong Kong, SAR China",Sexual Health,0.00,1.00,0.44,344
+"Hong Kong, SAR China",Vaccine,0.00,0.50,0.00,344
+Hungary,Antibiotic,0.00,0.00,0.20,348
+Hungary,Other,0.39,0.38,0.30,348
+Hungary,Sexual Health,0.00,1.00,0.44,348
+Hungary,Vaccine,0.00,0.40,0.44,348
+Iceland,Antibiotic,0.67,0.00,0.20,352
+Iceland,Other,0.25,0.33,0.35,352
+Iceland,Sexual Health,0.00,0.00,0.44,352
+Iceland,Vaccine,0.00,0.00,0.40,352
+India,Antibiotic,0.00,1.00,0.20,356
+India,Other,0.32,0.34,0.34,356
+India,Sexual Health,0.00,0.00,0.44,356
+India,Vaccine,0.00,0.00,0.60,356
+Indonesia,Antibiotic,1.00,0.00,0.67,360
+Indonesia,Other,0.41,0.18,0.31,360
+Indonesia,Sexual Health,0.00,0.00,0.22,360
+Indonesia,Vaccine,1.00,0.00,0.40,360
+"Iran, Islamic Republic of",Antibiotic,0.00,0.00,0.20,364
+"Iran, Islamic Republic of",Other,0.19,0.26,0.38,364
+"Iran, Islamic Republic of",Sexual Health,1.00,0.00,0.44,364
+"Iran, Islamic Republic of",Vaccine,0.00,0.40,0.40,364
+Iraq,Antibiotic,0.67,0.00,0.20,368
+Iraq,Other,0.26,0.53,0.32,368
+Iraq,Sexual Health,0.00,0.00,1.14,368
+Iraq,Vaccine,0.00,0.40,0.00,368
+Ireland,Antibiotic,0.00,0.00,0.40,372
+Ireland,Other,0.19,0.29,0.28,372
+Ireland,Sexual Health,0.00,0.00,0.00,372
+Ireland,Vaccine,0.00,0.40,0.22,372
+Israel,Antibiotic,0.67,0.00,0.20,376
+Israel,Other,0.31,0.26,0.26,376
+Israel,Sexual Health,1.00,0.00,0.22,376
+Israel,Vaccine,0.00,0.80,0.20,376
+Italy,Antibiotic,0.00,0.00,0.40,380
+Italy,Other,0.41,0.41,0.32,380
+Italy,Sexual Health,0.00,1.00,0.22,380
+Italy,Vaccine,0.00,0.00,0.00,380
+Jamaica,Antibiotic,0.67,0.00,0.40,388
+Jamaica,Other,0.38,0.10,0.33,388
+Jamaica,Sexual Health,0.00,0.00,1.11,388
+Jamaica,Vaccine,0.00,0.00,0.67,388
+Japan,Antibiotic,0.00,2.00,0.20,392
+Japan,Other,0.22,0.23,0.30,392
+Japan,Sexual Health,0.00,0.00,0.00,392
+Japan,Vaccine,1.00,0.40,1.00,392
+Jordan,Antibiotic,1.33,2.00,0.40,400
+Jordan,Other,0.19,0.10,0.33,400
+Jordan,Sexual Health,0.00,0.00,0.22,400
+Jordan,Vaccine,0.00,0.80,0.40,400
+Kazakhstan,Antibiotic,0.00,0.00,0.00,398
+Kazakhstan,Other,0.29,0.41,0.35,398
+Kazakhstan,Sexual Health,0.00,0.00,0.44,398
+Kazakhstan,Vaccine,1.00,0.80,0.40,398
+Kenya,Antibiotic,0.67,0.00,0.60,404
+Kenya,Other,0.16,0.18,0.27,404
+Kenya,Sexual Health,0.00,0.00,0.67,404
+Kenya,Vaccine,0.00,0.40,1.00,404
+Kiribati,Antibiotic,0.00,1.00,0.40,296
+Kiribati,Other,0.32,0.32,0.34,296
+Kiribati,Sexual Health,1.00,2.00,0.44,296
+Kiribati,Vaccine,0.00,0.00,0.00,296
+Korea (North),Antibiotic,0.67,0.00,0.20,#N/A
+Korea (North),Other,0.25,0.54,0.26,#N/A
+Korea (North),Sexual Health,1.00,1.00,0.44,#N/A
+Korea (North),Vaccine,0.00,0.80,0.40,#N/A
+Korea (South),Antibiotic,0.00,0.00,0.20,#N/A
+Korea (South),Other,0.19,0.21,0.33,#N/A
+Korea (South),Sexual Health,0.00,0.00,0.44,#N/A
+Korea (South),Vaccine,0.00,0.00,0.67,#N/A
+Kuwait,Antibiotic,0.00,0.00,0.50,414
+Kuwait,Other,0.50,0.30,0.35,414
+Kuwait,Sexual Health,0.00,0.00,0.22,414
+Kuwait,Vaccine,0.00,0.00,0.00,414
+Kyrgyzstan,Antibiotic,0.67,0.00,0.00,417
+Kyrgyzstan,Other,0.22,0.31,0.36,417
+Kyrgyzstan,Sexual Health,1.00,1.00,0.44,417
+Kyrgyzstan,Vaccine,0.00,0.00,0.00,417
+Lao PDR,Antibiotic,0.00,1.00,0.20,418
+Lao PDR,Other,0.39,0.18,0.29,418
+Lao PDR,Sexual Health,1.00,0.00,0.22,418
+Lao PDR,Vaccine,0.00,0.00,0.60,418
+Latvia,Antibiotic,0.00,1.00,0.40,428
+Latvia,Other,0.32,0.21,0.30,428
+Latvia,Sexual Health,0.00,1.00,0.44,428
+Latvia,Vaccine,1.00,1.00,1.00,428
+Lebanon,Antibiotic,0.67,0.00,0.20,422
+Lebanon,Other,0.22,0.23,0.32,422
+Lebanon,Sexual Health,1.00,1.00,0.44,422
+Lebanon,Vaccine,0.00,0.80,0.00,422
+Lesotho,Antibiotic,0.00,0.00,0.20,426
+Lesotho,Other,0.32,0.31,0.29,426
+Lesotho,Sexual Health,0.00,0.00,0.44,426
+Lesotho,Vaccine,0.00,0.00,0.20,426
+Liberia,Antibiotic,0.00,1.00,0.00,430
+Liberia,Other,0.28,0.23,0.26,430
+Liberia,Sexual Health,0.00,0.00,0.44,430
+Liberia,Vaccine,0.00,0.00,0.80,430
+Libya,Antibiotic,0.00,0.00,0.40,434
+Libya,Other,0.22,0.26,0.35,434
+Libya,Sexual Health,0.00,0.00,0.00,434
+Libya,Vaccine,0.00,0.40,0.40,434
+Lithuania,Antibiotic,0.67,1.00,0.00,440
+Lithuania,Other,0.45,0.36,0.28,440
+Lithuania,Sexual Health,0.00,0.00,0.22,440
+Lithuania,Vaccine,0.00,0.00,0.20,440
+Luxembourg,Antibiotic,0.00,1.00,0.20,442
+Luxembourg,Other,0.34,0.41,0.37,442
+Luxembourg,Sexual Health,1.00,1.00,0.50,442
+Luxembourg,Vaccine,1.00,0.40,0.60,442
+"Macao, SAR China",Antibiotic,0.67,0.00,0.00,446
+"Macao, SAR China",Other,0.46,0.26,0.28,446
+"Macao, SAR China",Sexual Health,0.00,0.00,0.00,446
+"Macao, SAR China",Vaccine,0.00,0.40,0.00,446
+"Macedonia, Republic of",Antibiotic,0.67,1.00,0.00,807
+"Macedonia, Republic of",Other,0.39,0.34,0.33,807
+"Macedonia, Republic of",Sexual Health,1.00,0.00,0.00,807
+"Macedonia, Republic of",Vaccine,0.00,0.00,0.60,807
+Madagascar,Antibiotic,1.33,0.00,0.44,450
+Madagascar,Other,0.35,0.23,0.33,450
+Madagascar,Sexual Health,1.00,0.00,0.22,450
+Madagascar,Vaccine,1.00,0.80,0.40,450
+Malawi,Antibiotic,1.33,0.00,0.00,454
+Malawi,Other,0.47,0.33,0.30,454
+Malawi,Sexual Health,1.00,0.00,0.22,454
+Malawi,Vaccine,1.00,0.00,0.40,454
+Malaysia,Antibiotic,0.00,0.00,0.00,458
+Malaysia,Other,0.32,0.33,0.27,458
+Malaysia,Sexual Health,0.00,0.00,0.00,458
+Malaysia,Vaccine,1.00,0.00,0.00,458
+Maldives,Antibiotic,0.67,0.00,0.60,462
+Maldives,Other,0.19,0.21,0.29,462
+Maldives,Sexual Health,0.00,0.00,0.67,462
+Maldives,Vaccine,0.00,0.80,0.20,462
+Mali,Antibiotic,1.33,0.00,0.40,466
+Mali,Other,0.38,0.33,0.37,466
+Mali,Sexual Health,1.00,1.00,0.22,466
+Mali,Vaccine,0.00,0.00,0.80,466
+Malta,Antibiotic,0.00,0.00,0.00,470
+Malta,Other,0.32,0.30,0.33,470
+Malta,Sexual Health,0.00,0.00,0.67,470
+Malta,Vaccine,2.00,0.40,0.20,470
+Martinique,Antibiotic,0.67,0.00,0.20,474
+Martinique,Other,0.32,0.23,0.32,474
+Martinique,Sexual Health,0.00,0.00,0.89,474
+Martinique,Vaccine,1.00,0.40,0.20,474
+Mauritania,Antibiotic,0.00,0.00,0.20,478
+Mauritania,Other,0.51,0.33,0.32,478
+Mauritania,Sexual Health,0.00,1.00,0.22,478
+Mauritania,Vaccine,0.00,0.00,0.00,478
+Mauritius,Antibiotic,0.00,0.00,0.40,480
+Mauritius,Other,0.35,0.28,0.36,480
+Mauritius,Sexual Health,0.00,0.00,0.00,480
+Mauritius,Vaccine,0.00,0.00,0.20,480
+Mayotte,Antibiotic,0.00,0.00,0.22,175
+Mayotte,Other,0.19,0.36,0.28,175
+Mayotte,Sexual Health,0.00,0.00,0.25,175
+Mayotte,Vaccine,0.00,0.00,0.40,175
+Mexico,Antibiotic,1.33,0.00,0.60,484
+Mexico,Other,0.30,0.38,0.34,484
+Mexico,Sexual Health,0.00,2.00,0.44,484
+Mexico,Vaccine,0.00,0.00,0.44,484
+"Micronesia, Federated States of",Antibiotic,0.00,0.00,0.40,583
+"Micronesia, Federated States of",Other,0.22,0.30,0.29,583
+"Micronesia, Federated States of",Sexual Health,0.00,0.00,0.00,583
+"Micronesia, Federated States of",Vaccine,0.00,0.00,0.40,583
+Moldova,Antibiotic,0.67,0.00,0.60,498
+Moldova,Other,0.38,0.38,0.29,498
+Moldova,Sexual Health,1.00,0.00,0.44,498
+Moldova,Vaccine,0.00,0.40,0.20,498
+Mongolia,Antibiotic,0.67,0.00,0.20,496
+Mongolia,Other,0.33,0.36,0.32,496
+Mongolia,Sexual Health,0.00,1.00,0.00,496
+Mongolia,Vaccine,0.00,0.00,0.40,496
+Montenegro,Antibiotic,0.00,0.00,0.40,499
+Montenegro,Other,0.41,0.38,0.31,499
+Montenegro,Sexual Health,1.00,1.00,0.67,499
+Montenegro,Vaccine,0.00,0.40,0.20,499
+Morocco,Antibiotic,0.00,0.00,0.40,504
+Morocco,Other,0.16,0.35,0.30,504
+Morocco,Sexual Health,0.00,1.00,0.00,504
+Morocco,Vaccine,1.00,0.40,0.00,504
+Mozambique,Antibiotic,0.67,0.00,0.20,508
+Mozambique,Other,0.23,0.28,0.31,508
+Mozambique,Sexual Health,1.00,1.00,0.00,508
+Mozambique,Vaccine,0.00,0.00,0.40,508
+Myanmar,Antibiotic,1.33,1.00,0.60,104
+Myanmar,Other,0.25,0.33,0.32,104
+Myanmar,Sexual Health,0.00,0.00,0.89,104
+Myanmar,Vaccine,0.00,0.80,0.40,104
+Namibia,Antibiotic,0.67,0.00,0.20,516
+Namibia,Other,0.44,0.29,0.34,516
+Namibia,Sexual Health,0.00,0.00,0.22,516
+Namibia,Vaccine,0.00,0.00,0.00,516
+Nepal,Antibiotic,0.67,0.00,0.00,524
+Nepal,Other,0.34,0.28,0.34,524
+Nepal,Sexual Health,0.00,0.00,0.22,524
+Nepal,Vaccine,0.00,0.80,0.60,524
+Netherlands,Antibiotic,0.67,1.00,0.40,528
+Netherlands,Other,0.23,0.28,0.28,528
+Netherlands,Sexual Health,0.00,0.00,0.44,528
+Netherlands,Vaccine,1.00,0.00,0.40,528
+Netherlands Antilles,Antibiotic,0.00,0.00,0.40,530
+Netherlands Antilles,Other,0.47,0.23,0.32,530
+Netherlands Antilles,Sexual Health,0.00,0.00,0.00,530
+Netherlands Antilles,Vaccine,0.00,0.00,0.40,530
+New Caledonia,Antibiotic,0.00,0.00,0.60,540
+New Caledonia,Other,0.47,0.28,0.30,540
+New Caledonia,Sexual Health,1.00,0.00,0.22,540
+New Caledonia,Vaccine,0.00,0.40,0.60,540
+New Zealand,Antibiotic,0.67,0.00,0.20,554
+New Zealand,Other,0.41,0.41,0.30,554
+New Zealand,Sexual Health,0.00,1.00,0.44,554
+New Zealand,Vaccine,1.00,0.00,0.00,554
+Nicaragua,Antibiotic,0.67,0.00,0.60,558
+Nicaragua,Other,0.25,0.26,0.36,558
+Nicaragua,Sexual Health,0.00,1.00,0.44,558
+Nicaragua,Vaccine,0.00,0.00,0.40,558
+Niger,Antibiotic,0.00,0.00,0.40,562
+Niger,Other,0.28,0.31,0.32,562
+Niger,Sexual Health,0.00,0.00,0.00,562
+Niger,Vaccine,0.00,0.00,0.67,562
+Nigeria,Antibiotic,0.67,0.00,0.40,566
+Nigeria,Other,0.42,0.28,0.32,566
+Nigeria,Sexual Health,1.00,1.00,0.44,566
+Nigeria,Vaccine,0.00,0.40,0.22,566
+Norway,Antibiotic,0.00,0.00,0.40,578
+Norway,Other,0.32,0.34,0.23,578
+Norway,Sexual Health,1.00,1.00,0.22,578
+Norway,Vaccine,1.00,0.00,0.44,578
+Oman,Antibiotic,0.00,0.00,0.60,512
+Oman,Other,0.31,0.26,0.36,512
+Oman,Sexual Health,1.00,0.00,0.44,512
+Oman,Vaccine,0.00,0.00,0.00,512
+Pakistan,Antibiotic,0.00,0.00,1.00,586
+Pakistan,Other,0.25,0.45,0.29,586
+Pakistan,Sexual Health,0.00,0.00,0.00,586
+Pakistan,Vaccine,0.00,0.40,0.20,586
+Palestinian Territory,Antibiotic,0.00,0.00,0.20,275
+Palestinian Territory,Other,0.42,0.41,0.31,275
+Palestinian Territory,Sexual Health,0.00,0.00,0.22,275
+Palestinian Territory,Vaccine,0.00,0.40,0.40,275
+Panama,Antibiotic,0.00,1.00,0.20,591
+Panama,Other,0.35,0.33,0.32,591
+Panama,Sexual Health,0.00,1.00,0.22,591
+Panama,Vaccine,0.00,0.40,0.00,591
+Papua New Guinea,Antibiotic,0.67,0.00,0.60,598
+Papua New Guinea,Other,0.53,0.36,0.32,598
+Papua New Guinea,Sexual Health,1.00,0.00,0.22,598
+Papua New Guinea,Vaccine,2.00,0.40,0.00,598
+Paraguay,Antibiotic,0.00,1.00,0.00,600
+Paraguay,Other,0.32,0.28,0.32,600
+Paraguay,Sexual Health,0.00,1.00,0.22,600
+Paraguay,Vaccine,2.00,0.00,0.00,600
+Peru,Antibiotic,0.67,0.00,0.40,604
+Peru,Other,0.19,0.44,0.30,604
+Peru,Sexual Health,0.00,0.00,0.00,604
+Peru,Vaccine,0.00,0.40,0.20,604
+Philippines,Antibiotic,0.00,0.00,0.00,608
+Philippines,Other,0.44,0.20,0.36,608
+Philippines,Sexual Health,1.00,0.00,0.67,608
+Philippines,Vaccine,0.00,0.40,0.20,608
+Poland,Antibiotic,0.67,1.00,0.20,616
+Poland,Other,0.34,0.28,0.31,616
+Poland,Sexual Health,0.00,1.00,0.44,616
+Poland,Vaccine,0.00,0.00,0.20,616
+Portugal,Antibiotic,0.00,0.00,0.20,620
+Portugal,Other,0.19,0.49,0.34,620
+Portugal,Sexual Health,0.00,0.00,0.22,620
+Portugal,Vaccine,0.00,0.00,0.00,620
+Puerto Rico,Antibiotic,0.00,0.00,0.60,630
+Puerto Rico,Other,0.35,0.42,0.36,630
+Puerto Rico,Sexual Health,0.00,1.00,0.67,630
+Puerto Rico,Vaccine,0.00,0.40,0.00,630
+Qatar,Antibiotic,0.67,1.00,0.60,634
+Qatar,Other,0.29,0.28,0.30,634
+Qatar,Sexual Health,0.00,1.00,0.22,634
+Qatar,Vaccine,0.00,0.00,0.22,634
+Romania,Antibiotic,0.00,0.00,0.20,642
+Romania,Other,0.28,0.26,0.44,642
+Romania,Sexual Health,0.00,0.00,0.67,642
+Romania,Vaccine,1.00,0.00,0.40,642
+Russian Federation,Antibiotic,0.67,0.00,0.20,643
+Russian Federation,Other,0.34,0.47,0.37,643
+Russian Federation,Sexual Health,0.00,1.00,0.44,643
+Russian Federation,Vaccine,0.00,0.40,0.60,643
+Rwanda,Antibiotic,0.00,0.00,0.60,646
+Rwanda,Other,0.30,0.28,0.35,646
+Rwanda,Sexual Health,0.00,0.00,0.00,646
+Rwanda,Vaccine,1.00,0.00,0.00,646
+Saint Lucia,Antibiotic,0.67,0.00,0.22,662
+Saint Lucia,Other,0.22,0.44,0.39,662
+Saint Lucia,Sexual Health,0.00,1.00,0.25,662
+Saint Lucia,Vaccine,1.00,0.40,0.67,662
+Saint Vincent and Grenadines,Antibiotic,0.00,0.00,0.20,670
+Saint Vincent and Grenadines,Other,0.32,0.34,0.38,670
+Saint Vincent and Grenadines,Sexual Health,0.00,0.00,0.22,670
+Saint Vincent and Grenadines,Vaccine,0.00,0.40,0.40,670
+Samoa,Antibiotic,0.00,0.00,0.60,882
+Samoa,Other,0.42,0.38,0.35,882
+Samoa,Sexual Health,0.00,1.00,0.22,882
+Samoa,Vaccine,1.00,0.00,0.40,882
+Sao Tome and Principe,Antibiotic,0.67,0.00,0.00,678
+Sao Tome and Principe,Other,0.31,0.30,0.32,678
+Sao Tome and Principe,Sexual Health,0.00,1.00,0.44,678
+Sao Tome and Principe,Vaccine,0.00,0.00,0.60,678
+Saudi Arabia,Antibiotic,0.00,0.00,0.00,682
+Saudi Arabia,Other,0.31,0.20,0.29,682
+Saudi Arabia,Sexual Health,0.00,0.00,0.89,682
+Saudi Arabia,Vaccine,0.00,0.40,0.60,682
+Senegal,Antibiotic,0.67,0.00,1.00,686
+Senegal,Other,0.28,0.39,0.34,686
+Senegal,Sexual Health,0.00,0.00,0.00,686
+Senegal,Vaccine,0.00,0.40,0.40,686
+Serbia,Antibiotic,0.67,0.00,0.20,688
+Serbia,Other,0.25,0.38,0.38,688
+Serbia,Sexual Health,0.00,1.00,0.44,688
+Serbia,Vaccine,0.00,0.00,0.40,688
+Sierra Leone,Antibiotic,0.00,1.00,0.00,694
+Sierra Leone,Other,0.25,0.43,0.29,694
+Sierra Leone,Sexual Health,2.00,0.00,0.22,694
+Sierra Leone,Vaccine,0.00,0.40,0.00,694
+Singapore,Antibiotic,0.00,0.00,0.40,702
+Singapore,Other,0.29,0.21,0.28,702
+Singapore,Sexual Health,0.00,0.00,0.00,702
+Singapore,Vaccine,0.00,0.00,0.40,702
+Slovakia,Antibiotic,0.00,0.00,0.40,703
+Slovakia,Other,0.25,0.29,0.31,703
+Slovakia,Sexual Health,0.00,1.00,0.44,703
+Slovakia,Vaccine,0.00,0.00,0.00,703
+Slovenia,Antibiotic,0.67,0.00,0.40,705
+Slovenia,Other,0.25,0.21,0.33,705
+Slovenia,Sexual Health,1.00,0.00,0.00,705
+Slovenia,Vaccine,0.00,0.00,0.20,705
+Solomon Islands,Antibiotic,0.00,1.00,0.00,90
+Solomon Islands,Other,0.38,0.18,0.32,90
+Solomon Islands,Sexual Health,1.00,0.00,0.22,90
+Solomon Islands,Vaccine,0.00,0.40,0.40,90
+Somalia,Antibiotic,0.00,1.00,0.80,706
+Somalia,Other,0.31,0.28,0.32,706
+Somalia,Sexual Health,1.00,1.00,0.22,706
+Somalia,Vaccine,1.00,0.40,0.00,706
+South Africa,Antibiotic,0.67,2.00,0.20,710
+South Africa,Other,0.38,0.21,0.37,710
+South Africa,Sexual Health,2.00,0.00,0.22,710
+South Africa,Vaccine,1.00,0.40,0.60,710
+South Sudan,Antibiotic,0.00,1.00,0.00,728
+South Sudan,Other,0.28,0.33,0.32,728
+South Sudan,Sexual Health,0.00,0.00,0.44,728
+South Sudan,Vaccine,1.00,0.00,0.00,728
+Spain,Antibiotic,0.00,1.00,0.40,724
+Spain,Other,0.35,0.42,0.33,724
+Spain,Sexual Health,0.00,1.00,0.22,724
+Spain,Vaccine,0.00,0.40,0.60,724
+Sri Lanka,Antibiotic,0.67,0.00,0.22,144
+Sri Lanka,Other,0.36,0.29,0.28,144
+Sri Lanka,Sexual Health,0.00,0.00,0.44,144
+Sri Lanka,Vaccine,0.00,0.40,0.60,144
+Sudan,Antibiotic,0.67,0.00,0.20,736
+Sudan,Other,0.28,0.18,0.41,736
+Sudan,Sexual Health,0.00,0.00,0.00,736
+Sudan,Vaccine,0.00,0.40,0.00,736
+Suriname,Antibiotic,0.00,0.00,0.20,740
+Suriname,Other,0.46,0.24,0.30,740
+Suriname,Sexual Health,1.00,0.00,0.44,740
+Suriname,Vaccine,0.00,0.00,0.40,740
+Swaziland,Antibiotic,0.00,1.00,0.22,748
+Swaziland,Other,0.38,0.25,0.33,748
+Swaziland,Sexual Health,1.00,0.00,0.50,748
+Swaziland,Vaccine,0.00,0.00,0.44,748
+Sweden,Antibiotic,0.67,0.00,0.40,752
+Sweden,Other,0.31,0.41,0.28,752
+Sweden,Sexual Health,0.00,0.00,0.22,752
+Sweden,Vaccine,0.00,0.40,0.22,752
+Switzerland,Antibiotic,0.00,0.00,0.60,756
+Switzerland,Other,0.28,0.41,0.30,756
+Switzerland,Sexual Health,1.00,0.00,0.00,756
+Switzerland,Vaccine,0.00,0.00,0.60,756
+Syrian Arab Republic (Syria),Antibiotic,0.67,0.00,0.20,#N/A
+Syrian Arab Republic (Syria),Other,0.32,0.32,0.36,#N/A
+Syrian Arab Republic (Syria),Sexual Health,0.00,0.00,0.25,#N/A
+Syrian Arab Republic (Syria),Vaccine,0.00,0.80,0.40,#N/A
+Tajikistan,Antibiotic,0.00,0.00,0.20,762
+Tajikistan,Other,0.32,0.23,0.31,762
+Tajikistan,Sexual Health,0.00,0.00,0.22,762
+Tajikistan,Vaccine,0.00,0.00,0.00,762
+"Tanzania, United Republic of",Antibiotic,0.00,0.00,0.60,#N/A
+"Tanzania, United Republic of",Other,0.19,0.33,0.26,#N/A
+"Tanzania, United Republic of",Sexual Health,0.00,0.00,0.44,#N/A
+"Tanzania, United Republic of",Vaccine,0.00,0.80,0.40,#N/A
+Thailand,Antibiotic,0.00,1.00,0.80,764
+Thailand,Other,0.35,0.29,0.29,764
+Thailand,Sexual Health,0.00,1.00,0.22,764
+Thailand,Vaccine,0.00,0.80,0.40,764
+Timor-Leste,Antibiotic,0.67,0.00,0.20,626
+Timor-Leste,Other,0.38,0.21,0.30,626
+Timor-Leste,Sexual Health,1.00,0.00,0.44,626
+Timor-Leste,Vaccine,0.00,0.00,0.44,626
+Togo,Antibiotic,0.00,0.00,0.20,768
+Togo,Other,0.28,0.29,0.30,768
+Togo,Sexual Health,0.00,1.00,0.44,768
+Togo,Vaccine,1.00,0.40,0.00,768
+Tonga,Antibiotic,0.00,1.00,0.22,776
+Tonga,Other,0.26,0.21,0.31,776
+Tonga,Sexual Health,1.00,0.00,0.22,776
+Tonga,Vaccine,0.00,0.00,0.20,776
+Trinidad and Tobago,Antibiotic,0.00,0.00,0.67,780
+Trinidad and Tobago,Other,0.19,0.41,0.29,780
+Trinidad and Tobago,Sexual Health,0.00,0.00,0.00,780
+Trinidad and Tobago,Vaccine,0.00,0.00,0.22,780
+Tunisia,Antibiotic,0.00,0.00,0.40,788
+Tunisia,Other,0.48,0.39,0.31,788
+Tunisia,Sexual Health,0.00,0.00,0.22,788
+Tunisia,Vaccine,0.00,0.40,0.00,788
+Turkey,Antibiotic,0.00,0.00,0.40,792
+Turkey,Other,0.41,0.23,0.25,792
+Turkey,Sexual Health,0.00,0.00,0.67,792
+Turkey,Vaccine,0.00,0.40,0.60,792
+Turkmenistan,Antibiotic,0.00,1.00,0.20,795
+Turkmenistan,Other,0.22,0.32,0.29,795
+Turkmenistan,Sexual Health,1.00,0.00,0.44,795
+Turkmenistan,Vaccine,0.00,0.00,0.00,795
+Uganda,Antibiotic,0.67,0.00,0.22,800
+Uganda,Other,0.31,0.33,0.31,800
+Uganda,Sexual Health,0.00,1.00,0.75,800
+Uganda,Vaccine,2.00,0.00,0.80,800
+UK,Antibiotic,0.00,0.00,0.20,#N/A
+UK,Other,0.32,0.38,0.34,#N/A
+UK,Sexual Health,0.00,1.00,0.22,#N/A
+UK,Vaccine,0.00,0.00,0.20,#N/A
+Ukraine,Antibiotic,0.00,1.00,0.00,804
+Ukraine,Other,0.34,0.38,0.31,804
+Ukraine,Sexual Health,0.00,0.00,0.25,804
+Ukraine,Vaccine,0.00,0.50,0.20,804
+United Arab Emirates,Antibiotic,0.00,0.00,0.50,784
+United Arab Emirates,Other,0.22,0.29,0.31,784
+United Arab Emirates,Sexual Health,0.00,0.00,1.25,784
+United Arab Emirates,Vaccine,0.00,0.00,0.00,784
+United Kingdom,Antibiotic,0.67,0.00,0.40,826
+United Kingdom,Other,0.41,0.16,0.28,826
+United Kingdom,Sexual Health,0.00,1.00,0.44,826
+United Kingdom,Vaccine,0.00,0.00,0.40,826
+United States of America,Antibiotic,0.00,1.00,0.40,840
+United States of America,Other,0.39,0.29,0.33,840
+United States of America,Sexual Health,1.00,0.00,0.89,840
+United States of America,Vaccine,0.00,0.00,0.00,840
+Uruguay,Antibiotic,1.00,1.00,0.20,858
+Uruguay,Other,0.45,0.26,0.35,858
+Uruguay,Sexual Health,0.00,2.00,0.25,858
+Uruguay,Vaccine,0.00,0.50,0.40,858
+Uzbekistan,Antibiotic,1.33,0.00,0.00,860
+Uzbekistan,Other,0.35,0.18,0.32,860
+Uzbekistan,Sexual Health,0.00,0.00,0.67,860
+Uzbekistan,Vaccine,1.00,0.80,0.40,860
+Vanuatu,Antibiotic,0.67,1.00,0.00,548
+Vanuatu,Other,0.29,0.36,0.35,548
+Vanuatu,Sexual Health,0.00,0.00,0.22,548
+Vanuatu,Vaccine,1.00,0.00,0.60,548
+Venezuela (Bolivarian Republic),Antibiotic,0.00,0.00,0.40,#N/A
+Venezuela (Bolivarian Republic),Other,0.43,0.55,0.32,#N/A
+Venezuela (Bolivarian Republic),Sexual Health,0.00,0.00,0.00,#N/A
+Venezuela (Bolivarian Republic),Vaccine,0.00,0.40,0.40,#N/A
+Viet Nam,Antibiotic,0.00,0.00,0.20,704
+Viet Nam,Other,0.35,0.31,0.36,704
+Viet Nam,Sexual Health,0.00,0.00,0.44,704
+Viet Nam,Vaccine,0.00,0.80,0.20,704
+"Virgin Islands, US",Antibiotic,0.00,1.00,0.40,850
+"Virgin Islands, US",Other,0.32,0.36,0.31,850
+"Virgin Islands, US",Sexual Health,0.00,1.00,0.44,850
+"Virgin Islands, US",Vaccine,1.00,0.80,0.60,850
+Western Sahara,Antibiotic,0.00,1.00,0.80,#N/A
+Western Sahara,Other,0.45,0.23,0.27,#N/A
+Western Sahara,Sexual Health,0.00,0.00,0.44,#N/A
+Western Sahara,Vaccine,0.00,0.80,0.00,#N/A
+Yemen,Antibiotic,1.33,1.00,0.80,887
+Yemen,Other,0.19,0.38,0.31,887
+Yemen,Sexual Health,0.00,0.00,0.22,887
+Yemen,Vaccine,0.00,1.20,0.40,887
+Zambia,Antibiotic,0.67,1.00,0.60,894
+Zambia,Other,0.19,0.36,0.30,894
+Zambia,Sexual Health,0.00,2.00,0.67,894
+Zambia,Vaccine,0.00,0.00,0.20,894
+Zimbabwe,Antibiotic,0.67,0.00,0.89,716
+Zimbabwe,Other,0.55,0.13,0.36,716
+Zimbabwe,Sexual Health,1.00,0.00,0.22,716
+Zimbabwe,Vaccine,1.00,0.00,0.40,716
